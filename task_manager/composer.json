@@ -1,0 +1,19 @@
+{
+    "name": "dtx/task_manager",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Faisal ahmed",
+            "email": "faisal2410@yahoo.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "^7.1"
+    }
+}
